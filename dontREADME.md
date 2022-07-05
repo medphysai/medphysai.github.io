@@ -1,1 +1,0 @@
-# medphysai.github.io
