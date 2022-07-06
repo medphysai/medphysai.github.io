@@ -1,2 +1,2 @@
 # medphysai.github.io  
-A test
+Repository for the website: https://medphysai.github.io/
