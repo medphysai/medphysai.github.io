@@ -8,3 +8,4 @@ sphinxcontrib-svg2pdfconverter
 sphinx-gallery
 sphinx-last-updated-by-git
 sphinx-codeautolink
+nbsphinx

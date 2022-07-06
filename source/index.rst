@@ -7,7 +7,7 @@ Welcome to MedPhysAI's documentation!
 =====================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Contents:
 
 
@@ -18,3 +18,45 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+* :ref:`Section Headers`
+* :ref:`Sub section headers`
+
+  
+Section Headers
+============================================  
+This text appears under a heading. 
+  
+Sub section headers
+--------------------------------------------  
+This text appears under a sub section heading.  
+  
+With overline chapters
+********************************************  
+This text is under an overline.  
+  
+subsub sections  
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^  
+This text is under a subsub section heading.  
+  
+Section overline for parts
+############################################  
+This text is under an overline.  
+  
+**bold text**  
+  
+*Italic text*
+  
+# Numbered list item 1  
+# Numbered list item 2
+  
+* Unordered list item  
+* Unordered list item
+  
+.. code-block:: python
+
+   def func(a, b):
+      return a + b
+  
+.. py:function:: square(x)
+   
+   return the square of a function.   
