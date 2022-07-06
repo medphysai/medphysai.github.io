@@ -1,0 +1,10 @@
+IPython
+ipykernel
+sphinx
+matplotlib
+sphinx-rtd-theme
+sphinxcontrib-bibtex==1.0.0
+sphinxcontrib-svg2pdfconverter
+sphinx-gallery
+sphinx-last-updated-by-git
+sphinx-codeautolink

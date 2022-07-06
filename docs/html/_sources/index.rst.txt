@@ -1,5 +1,5 @@
 .. medphysai documentation master file, created by
-   sphinx-quickstart on Tue Jul  5 17:14:51 2022.
+   sphinx-quickstart on Wed Jul  6 10:11:04 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
