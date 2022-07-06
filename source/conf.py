@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'medphysai'
+project = 'MedPhysAI'
 copyright = '2022, Alex Grimwood'
 author = 'Alex Grimwood'
 
